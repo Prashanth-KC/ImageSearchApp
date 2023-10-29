@@ -60,7 +60,7 @@ form {
 .search-result {
     margin-bottom: 60px;
     width: 30%;
-    height: 1000%;
+    height: 100%;
     border-radius: 5px;
     box-shadow: 0 0 6px rgba(0, 0, 0, 0.2);
     overflow: hidden;
@@ -98,7 +98,7 @@ form {
     margin: 30px auto;
     border-radius: 5px;
     cursor: pointer;
-    display: none;
+    /* display: none; */
 }
 
 
